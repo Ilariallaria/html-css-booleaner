@@ -11,7 +11,39 @@ header{
     background-color: #466cf6;
 
 }
-.container{
 
+.container{
   width: 10%;
+}
+
+main{
+margin-left: 5px;
+}
+
+h1{
+    margin-top: 20px;
+}
+
+.sottotitolo{
+    color:grey;
+    font-weight: 500;
+}
+
+.sottotitolo span{
+    color: #466cf6;
+}
+
+.immagini-tim{
+    margin-top: 20px;
+}
+
+.didascalie{
+font-size: small;
+}
+
+.evidence{
+    margin-top: 20px;
+}
+.evidence span{
+ background-color: yellow;
 }
