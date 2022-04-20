@@ -47,3 +47,8 @@ font-size: small;
 .evidence span{
  background-color: yellow;
 }
+
+.list{
+    margin-top: 20px;
+    margin-left: 15px;
+}
